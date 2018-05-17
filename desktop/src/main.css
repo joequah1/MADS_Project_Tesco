@@ -1,0 +1,81 @@
+#rma-widget, #ad-container {
+    width: 970px;
+    height: 250px;
+}
+
+    /*    .item img {
+            margin: 10px 10px 0 10px;
+        }
+        .item h4 {
+            line-height: 0;
+            padding-left: 10px;
+        }
+        .item p {
+            padding-left: 10px;
+        }
+*/
+
+
+@font-face {
+	font-family: HelveticaLTStd-BoldCond;
+	src: url(/css/fonts/HelveticaLTStd-BoldCond.otf);
+}
+@font-face {
+	font-family: helveticanw;
+	src: url(/css/fonts/helveticanw.ttf);
+}
+@font-face {
+	font-family: MyriadPro-Regular;
+	src: url(/css/fonts/MyriadPro-Regular.otf);
+}
+@font-face {
+    font-family: Modern-Bold;
+    src: url(/css/fonts/TESCOModern-Bold-web.ttf);
+}
+@font-face {
+    font-family: Modern-Regular;
+    src: url(/css/fonts/TESCOModern-Regular-web.ttf);
+}
+
+.item {
+    margin-top: 5px;
+}
+.item .image {
+	float: left;
+}
+.item img {
+	width: 100px;
+}
+.item .content {
+    float: left;
+    width: 220px;
+}
+.item .content h4 {
+	font-family: Modern-Bold;
+	margin: 0;
+	font-size: 16px;
+}
+.item .content p {
+	font-family: Modern-Regular;
+	margin: 0;
+	font-size: 12px;
+}
+.item .content span {
+	font-family: helveticanw;
+	font-weight: bold;
+	font-size: 12px;
+}
+.logo {
+	width: 100%;
+	position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+}
+.logo img {
+	width: 120px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    height: 30px;
+}
