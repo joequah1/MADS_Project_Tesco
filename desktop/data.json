@@ -9,11 +9,47 @@ json_data = {
 	"hoverPause" : true,
 	"background" : "img/bg.png",
 	"items" : [
-		{"image":"img/tesco-img-01.png","title":"Minuman Tesco CHoco Malt 1kg", "description":"Setiap sip ChocoMalt padat dengan kebaikan coklat semulajadi. Lazat dan berkhasiat, anda tentu berasa puas selepas setiap cawan.", "clickthrough":"https://eshop.tesco.com.my/groceries/en-GB/products/7004494490", "price": "RM12.99/sepaket"},
-		{"image":"img/tesco-img-03.png","title":"Tesco Eat Fresh Lada Besar 3 Warna 300g", "description":"", "clickthrough":"https://eshop.tesco.com.my/groceries/en-GB/products/7071008683", "price":"RM 7.99/sepaket"},
-		{"image":"img/tesco-img-05.png","title":"Inspirasi Non-stick Saucepan", "description":"Perluk tanpa lekat yang terdapat dalam tiga saiz dan harga yang berbeza.", "clickthrough":"https://eshop.tesco.com.my/groceries/en-GB/products/7073314730", "price":"RM29 - RM36.90/sebuah"},
-		{"image":"img/tesco-img-02.png","title":"Lampin Pakai Buang Tesco Loves Baby XL 11-16kg", "description":"100% fabrik sarung luar lampin untuk pengudaraan lebih baik agar bayi berasa lebih selesa dan segar", "clickthrough":"https://eshop.tesco.com.my/groceries/en-GB/products/7071987258", "price":"RM27.90/sepaket"},
-		{"image":"img/tesco-img-04.png","title":"Tisu Pengelap Bayi Tesco Loves Baby Gentle 2 x 80s", "description":"Lembut untuk bayi dan kulit sensitif", "clickthrough":"https://eshop.tesco.com.my/groceries/en-GB/products/7072334819", "price":"RM 7.99/sepaket"},
-		{"image":"img/tesco-img-06.png","title":"Biskut Mentega Tesco 454g", "description":"", "clickthrough":"https://eshop.tesco.com.my/groceries/en-GB/products/7072693827", "price":"RM15.39/1 tin"}
+		{
+			"image":"img/v2/2/tesco-img-01.png",
+			"title":"Tuna Cili Tesco / Sapuan sandwich dengan Tuna / Tuna Chuchee 185gm", 
+			"description":"Mengandungi Vitamin C, Tanpa Pewarna Tiruan", 
+			"clickthrough":"https://eshop.tesco.com.my/groceries/en-GB/products/7073580570", 
+			"price": "RM4.99/unit"
+		},
+		{
+			"image":"img/v2/2/tesco-image-02.png",
+			"title":"Teh Tarik Tesco Asli 15s x 40gm / Kurang Manis 15s x 30gm", 
+			"description":"Produk ini disahkan halal oleh Jakim.", 
+			"clickthrough":"https://eshop.tesco.com.my/groceries/en-GB/products/7071823956", 
+			"price": "RM11.99/unit"
+		},
+		{
+			"image":"img/v2/2/tesco-img-03.png",
+			"title":"Roti Paratha Tesco Biasa/Bawang 5s x 75gm", 
+			"description":"Kaya dengan rempah kelapa", 
+			"clickthrough":"https://eshop.tesco.com.my/groceries/en-GB/products/7073735906", 
+			"price": "RM4.49/pek"
+		},
+		{
+			"image":"img/v2/2/tesco-img-04.png",
+			"title":"Ayam Goreng Tesco Pedas / Ekstra Pedas / Asli 850gm", 
+			"description":"100% Durum Wheat Semolina", 
+			"clickthrough":"https://eshop.tesco.com.my/groceries/en-GB/products/7072238070", 
+			"price": "RM9.99/pek"
+		},
+		{
+			"image":"img/v2/2/tesco-img-05.png",
+			"title":"Minuman Malt Coklat Tesco 1kg", 
+			"description":"Produk ini disahkan halal oleh Jakim.", 
+			"clickthrough":"https://eshop.tesco.com.my/groceries/en-GB/products/7004494490", 
+			"price": "RM13.99/pek"
+		},
+		{
+			"image":"img/v2/2/tesco-img-06.png",
+			"title":"Kacang Edamame 500gm", 
+			"description":"Perisa asli kentang", 
+			"clickthrough":"https://eshop.tesco.com.my/groceries/en-GB/products/7073317039", 
+			"price": "RM7.99/pek"
+		},
 	]
 }

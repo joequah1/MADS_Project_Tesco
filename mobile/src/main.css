@@ -40,6 +40,9 @@
 .item {
 	margin-top: 5px;
 }
+.item:hover {
+    cursor: pointer;
+}
 .item img {
 	height: 140px;
 }
@@ -64,12 +67,13 @@
 	font-family: helveticanw;
 	font-weight: bold;
 	font-size: 12px;
+    line-height: 40px;
 }
 .logo {
 	width: 80px;
 	position: absolute;
-    bottom: 0;
-    right: 0;
+    bottom: 5px;
+    right: 5px;
 }
 .logo img {
 	max-width: 100%;

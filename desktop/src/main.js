@@ -29,7 +29,6 @@ class AdUnit extends Mads {
                     </div>
                     <div class="content">
                     <h4>${this.data.items[i].title}</h4>
-                    <p>${this.data.items[i].description}</p>
                     <span>${this.data.items[i].price}</span>
                     </div>
                 </div>
@@ -54,7 +53,6 @@ class AdUnit extends Mads {
                     </div>
                     <div class="content">
                         <h4>${this.data.items[i].title}</h4>
-                        <p>${this.data.items[i].description}</p>
                         <span>${this.data.items[i].price}</span>
                     </div>
                 </div>`;
@@ -85,7 +83,7 @@ class AdUnit extends Mads {
   style() {
     console.log('elements', this.elems);
 
-    const links = ['https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css'];
+    const links = [];
 
     return [...links,
       `

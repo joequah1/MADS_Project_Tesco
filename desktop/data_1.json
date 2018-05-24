@@ -1,0 +1,54 @@
+json_data = {
+	"width" : 970,
+	"height" : 250,
+	"itemWidth" : "33.33333%",
+	"itemHeight" : "50%",
+	"itemsPerSlide":6,
+	"slide":false,
+	"autoplay" : 5000,
+	"hoverPause" : true,
+	"background" : "img/bg.png",
+	"items" : [
+		{
+			"image":"img/tesco-img-01.png",
+			"title":"Minuman Choco Malt Tesco 1kg", 
+			"description":"Setiap sip ChocoMalt padat dengan kebaikan coklat semulajadi. Lazat dan berkhasiat, anda tentu berasa puas selepas setiap cawan.", 
+			"clickthrough":"https://eshop.tesco.com.my/groceries/en-GB/products/7004494490", 
+			"price": "RM12.99/pek"
+		},
+		{
+			"image":"img/tesco-img-03.png",
+			"title":"Lada Besar 3 Warna Tesco Eat Fresh 300gm", 
+			"description":"", 
+			"clickthrough":"https://eshop.tesco.com.my/groceries/en-GB/products/7071008683", 
+			"price":"RM 7.99/pek"
+		},
+		{	
+			"image":"img/tesco-img-05.png",
+			"title":"Periuk Tidak Melekat Inspirasi 16 cm", 
+			"description":"Perluk tanpa lekat yang terdapat dalam tiga saiz dan harga yang berbeza.", 
+			"clickthrough":"https://eshop.tesco.com.my/groceries/en-GB/products/7073314730", 
+			"price":"RM29.90/unit"},
+		{
+			"image":"img/tesco-img-02.png",
+			"title":"Lampin Bayi Pakai Buang Tesco Loves Baby Tape M81 / L69 / XL56 / XXL46", 
+			"description":"100% fabrik sarung luar lampin untuk pengudaraan lebih baik agar bayi berasa lebih selesa dan segar", 
+			"clickthrough":"https://eshop.tesco.com.my/groceries/en-GB/products/7071987258", 
+			"price":"RM28.99/pek"
+		},
+		{
+			"image":"img/tesco-img-04.png",
+			"title":"Tisu Pengelap Bayi Tesco Loves Baby 2 x 80s Aneka", 
+			"description":"Lembut untuk bayi dan kulit sensitif", 
+			"clickthrough":"https://eshop.tesco.com.my/groceries/en-GB/products/7072334819", 
+			"price":"RM 7.99/pek"
+		},
+		{	
+			"image":"img/tesco-img-06.png",
+			"title":"Biskut Mentega Tesco 454gm", 
+			"description":"", 
+			"clickthrough":"https://eshop.tesco.com.my/groceries/en-GB/products/7072693827", 
+			"price":"RM15.39/unit"
+		}
+	]
+}
