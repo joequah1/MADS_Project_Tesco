@@ -10,46 +10,46 @@ json_data = {
 	"background" : "img/bg.png",
 	"items" : [
 		{
-			"image":"img/v2/2/tesco-img-01.png",
-			"title":"Tuna Cili Tesco / Sapuan sandwich dengan Tuna / Tuna Chuchee 185gm", 
-			"description":"Mengandungi Vitamin C, Tanpa Pewarna Tiruan", 
+			"image":"img/v3/tesco-img-01.png",
+			"title":"Ceri Tomato Eat Fresh 275gm", 
+			"description":"", 
 			"clickthrough":"https://eshop.tesco.com.my/groceries/en-GB/products/7073580570", 
-			"price": "RM4.99/unit"
+			"price": "RM2.99/pek"
 		},
 		{
-			"image":"img/v2/2/tesco-image-02.png",
-			"title":"Teh Tarik Tesco Asli 15s x 40gm / Kurang Manis 15s x 30gm", 
-			"description":"Produk ini disahkan halal oleh Jakim.", 
+			"image":"img/v3/tesco-img-02.png",
+			"title":"Cili Padi Merah Eat Fresh 100gm", 
+			"description":"", 
 			"clickthrough":"https://eshop.tesco.com.my/groceries/en-GB/products/7071823956", 
-			"price": "RM11.99/pek"
+			"price": "RM1.79/pek"
 		},
 		{
-			"image":"img/v2/2/tesco-img-03.png",
-			"title":"Roti Paratha Tesco Biasa/Bawang 5s x 75gm", 
-			"description":"Kaya dengan rempah kelapa", 
+			"image":"img/v3/tesco-img-03.png",
+			"title":"Jagung Sayur Segar Eat Fresh 200gm", 
+			"description":"", 
 			"clickthrough":"https://eshop.tesco.com.my/groceries/en-GB/products/7073735906", 
-			"price": "RM4.49/pek"
+			"price": "RM2.99/pek"
 		},
 		{
-			"image":"img/v2/2/tesco-img-04.png",
-			"title":"Ayam Goreng Tesco Pedas / Ekstra Pedas / Asli 850gm", 
-			"description":"100% Durum Wheat Semolina", 
+			"image":"img/v3/tesco-img-04.png",
+			"title":"Bendi Eat Fresh", 
+			"description":"", 
 			"clickthrough":"https://eshop.tesco.com.my/groceries/en-GB/products/7072238070", 
-			"price": "RM9.99/pek"
+			"price": "RM1.49/pek"
 		},
 		{
-			"image":"img/v2/2/tesco-img-05.png",
-			"title":"Minuman Malt Coklat Tesco 1kg", 
-			"description":"Produk ini disahkan halal oleh Jakim.", 
+			"image":"img/v3/tesco-img-05.png",
+			"title":"Butterhead Eat Fresh 1s", 
+			"description":"", 
 			"clickthrough":"https://eshop.tesco.com.my/groceries/en-GB/products/7004494490", 
-			"price": "RM13.99/pek"
+			"price": "RM1.99/pek"
 		},
 		{
-			"image":"img/v2/2/tesco-img-06.png",
-			"title":"Kacang Edamame 500gm", 
-			"description":"Perisa asli kentang", 
+			"image":"img/v3/tesco-img-06.png",
+			"title":"Terung Cameron Eat Fresh", 
+			"description":"", 
 			"clickthrough":"https://eshop.tesco.com.my/groceries/en-GB/products/7073317039", 
-			"price": "RM7.99/pek"
+			"price": "RM1.49/pek"
 		},
 	]
 }
